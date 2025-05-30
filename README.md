@@ -1,7 +1,7 @@
 
-# TechnoWeb - Responsive Website
+# TechnoWorld - Responsive Website
 
-A responsive website for TechnoWeb, built using HTML and CSS with media queries. This project showcases a seamless user experience across various devices and screen sizes, from desktops to mobile phones.
+A responsive website for TechnoWorld, built using HTML and CSS with media queries. This project showcases a seamless user experience across various devices and screen sizes, from desktops to mobile phones.
 
 # Features
 
